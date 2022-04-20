@@ -7,11 +7,11 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Lew Zhi Hong</h1>
 <h3 align="center">A passionate JavaScript developer from Singapore</h3>
 
-- 🔭 I’m currently working on **Pokemon Damage Type Checker**
+- 🔭 I’m currently working on **react apps**
 
 - 👀 I’m interested in **creating web applications**
 
-- 🌱 I’m currently learning **node and react**
+- 🌱 I’m currently learning **react**
 
 - 📫 How to reach me **zhlew02@gmail.com**
 
